@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Manajemen Kelas Terpadu",
+  "description": "Aplikasi offline-first untuk manajemen data siswa, absensi harian, nilai akademik, roster pelajaran, dan jadwal piket harian, lengkap dengan fitur ekspor PDF/Excel profesional dan sinkronisasi otomatis ke Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

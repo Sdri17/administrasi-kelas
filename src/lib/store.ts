@@ -162,7 +162,7 @@ export interface Settings {
 }
 
 export const defaultSettings: Settings = {
-  spreadsheetId: 'MASUKKAN_ID_SPREADSHEET_ANDA_DI_SINI',
+  spreadsheetId: '1rGZcutLgr4LRSBF31yA2VnSzThxt2Y0ujiOAxoMEeM8',
   appsScriptUrl: 'AKfycbypIf0madMe0oLzACMFVnChBGNzSvswkB_eJis2pGO1WWqtrZ7GhLiSo_t_GdUqd7cWqg',
   nama_sekolah: '',
   npsn: '',
